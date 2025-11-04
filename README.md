@@ -1,15 +1,14 @@
 # About Me  
 
-I was born in 2004 and have a strong passion for Android development. I enjoy transforming creative ideas into practical, user-friendly applications that make people’s lives easier and more enjoyable. As a developer, I constantly challenge myself to learn new technologies, explore modern architectures, and write clean, maintainable, and efficient code. I value the balance between beautiful design and technical excellence, believing that a truly great app must deliver both strong performance and a seamless user experience. 📱
+I was born in 2004 and have a strong passion for Android development. I love turning creative ideas into practical, user-friendly apps that make life easier. As a developer, I constantly learn new technologies, apply modern architectures, and write clean, maintainable code. I believe a great app should balance beautiful design with solid performance. 📱
 
-In the near future, my short-term goals include building and publishing my own Android apps on Google Play, improving my skills in Kotlin, Jetpack Compose, and Clean Architecture, and mastering essential Android libraries such as Room, Retrofit, Hilt, and Coroutines. I also aim to strengthen my understanding of software testing, CI/CD, and performance optimization, while contributing to open-source projects to learn from real-world collaboration. 🎯
+In the short term, I aim to build and publish my own Android apps on Google Play, master Kotlin, Jetpack Compose, and Clean Architecture, and contribute to open-source projects to sharpen my real-world skills. 🎯
 
-In the long run, I aspire to become a professional Android Developer capable of leading the development of innovative mobile products that solve real-world problems. I want to mentor junior developers, contribute to the growth of the developer community, and work in a team that values creativity, continuous improvement, and user-centered design. My goal is to build meaningful applications that positively impact millions of users around the world. 🌍
+My long-term goal is to become a professional Android Developer who creates impactful products, mentors others, and works in a team that values creativity, innovation, and user experience. 🌍
 
-I believe in continuous learning and improvement. To me, every line of code is an opportunity to learn something new — not just about programming, but also about problem-solving, collaboration, and critical thinking. I highly value simplicity because clear and concise code lasts longer, collaboration because great apps are built by great teams, responsibility because every decision in development affects the user experience, and curiosity because technology never stops evolving. 🧠
+I value simplicity, collaboration, responsibility, and curiosity — because great apps come from learning, teamwork, and passion for growth. 🧠
 
-I want to contribute to projects that emphasize high-quality Android apps with modern design and architecture, open-source initiatives that empower other developers, and products that make everyday life simpler, smarter, and more connected. Beyond coding, I aspire to share knowledge, write technical articles, and collaborate with passionate developers who share the same vision of growth and innovation. 🤝🍀
-
+I aspire to contribute to meaningful projects, share knowledge, and build products that make everyday life smarter and more connected. 🤝🍀
 ## Connect with Me  
 
 <p align="center">
