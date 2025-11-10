@@ -1,4 +1,4 @@
-## 📷 Screenshots (Khoảng cách 30px giữa các hàng) ✨
+## 📷 Screenshots (Khoảng cách lớn giữa hai hàng) ✨
 
 <div align="center">
 
@@ -7,7 +7,7 @@
     flex-wrap: wrap;
     justify-content: center;
     column-gap: 8px;
-    margin-bottom: 30px; /* Khoảng cách 30px bên dưới hàng này */
+    margin-bottom: 200px; /* TẠO KHOẢNG CÁCH LỚN (200px) bên dưới hàng này */
   ">
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192844850_4a12c361575899759337f022df4138b0_ha1qlv.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192852614_e85e74bf2d8de645988c345fb664c09f_hrbyof.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
@@ -15,15 +15,6 @@
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192884747_6b194cb6f1dd1142191c3bdb9e94ceb8_p4blkq.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192884291_b988ea85ec513084c0eb21ccce58ca0b_somezp.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192915512_a3cf26b40e416d7f6816f12ea75465f4_gby47i.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
-  </div>
-
-  <div style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    column-gap: 8px;
-    margin-bottom: 30px; /* Khoảng cách 30px bên dưới hàng này */
-  ">
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192948890_903d3b274db3a2ba11450645d9fe79bc_jdardr.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192902830_878f21738ac2da99d9b30a4ff50c863c_jcvr8c.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184192913486_96292f278d30d6b1b9d2f3224216380a_uaplba.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
@@ -37,7 +28,7 @@
     flex-wrap: wrap;
     justify-content: center;
     column-gap: 8px;
-    margin-bottom: 30px; /* Khoảng cách 30px bên dưới hàng này */
+    margin-bottom: 0px; /* Hàng cuối cùng không cần khoảng cách bên dưới */
   ">
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193014053_5ade615ea117f87a275cbe7be88ba988_kj1jcv.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184193018345_3db84fc3df41b475c192f235f288285e_tcamox.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
@@ -45,30 +36,12 @@
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193019618_4f9f00adf3635eda666cd63a525c9a1c_vy1cef.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184193017527_dd8d8c22792eb10028692d94fcead7bd_taappm.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193029404_959fe23e505bbbdb6c67ac12182edea0_mjufis.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
-  </div>
-
-  <div style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    column-gap: 8px;
-    margin-bottom: 30px; /* Khoảng cách 30px bên dưới hàng này */
-  ">
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193023448_f418c71c9697c7203514670d6c87f64b_jje95u.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193034345_1be10b8ae0921ccb6ecd3669822106b5_jm8n1e.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193090393_76c00739b91bb2f91c06fe7d3d411a21_rn5dlz.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193108655_f724e660c49158e46498247a9ba69570_n6j45e.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193110876_1d954c3c0bff264f190a3f459e4e8ef3_lagkeu.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193105204_587682b9869ed932592cd1d25f1cdd09_cqzxgv.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
-  </div>
-
-  <div style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    column-gap: 8px;
-    /* margin-bottom: 30px; */ 
-  ">
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193109979_b131548dbd2652cff17fc58645e16361_xtdpw2.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z718419311133_428c4676e114c74278d571679127774c_cmsso0.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
     <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153350/z7184193157634_63501239915d19895603043a2f335b38_qubrv0.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
