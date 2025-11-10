@@ -8,21 +8,21 @@
   justify-items: center; /* Canh giữa ảnh trong cột */
   text-align: center;
 ">
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192844850_4a12c361575899759337f022df4138b0_ha1qlv.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192852614_e85e74bf2d8de645988c345fb664c09f_hrbyof.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192864124_d2c21ef16ae34e36cfa90431c1aab4b8_kt6s5s.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192884747_6b194cb6f1dd1142191c3bdb9e94ceb8_p4blkq.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192884291_b988ea85ec513084c0eb21ccce58ca0b_somezp.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192915512_a3cf26b40e416d7f6816f12ea75465f4_gby47i.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192844850_4a12c361575899759337f022df4138b0_ha1qlv.jpg"  ;max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192852614_e85e74bf2d8de645988c345fb664c09f_hrbyof.jpg";  max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192864124_d2c21ef16ae34e36cfa90431c1aab4b8_kt6s5s.jpg" ; max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192884747_6b194cb6f1dd1142191c3bdb9e94ceb8_p4blkq.jpg" ; max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192884291_b988ea85ec513084c0eb21ccce58ca0b_somezp.jpg" ; max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192915512_a3cf26b40e416d7f6816f12ea75465f4_gby47i.jpg" ; max-width:120px; border-radius:8px;" />
 
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192948890_903d3b274db3a2ba11450645d9fe79bc_jdardr.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192902830_878f21738ac2da99d9b30a4ff50c863c_jcvr8c.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184192913486_96292f278d30d6b1b9d2f3224216380a_uaplba.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192949867_4e9c1fc4065cb86656dc185422eed768_suskmu.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192949991_4dbf652d4abe46458f01df2973bfaca2_y7pkj5.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184192953869_37d83bab33f4dbc877e8f1b8b85d9a41_ic17eo.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192948890_903d3b274db3a2ba11450645d9fe79bc_jdardr.jpg"  ;max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192902830_878f21738ac2da99d9b30a4ff50c863c_jcvr8c.jpg"  ;max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184192913486_96292f278d30d6b1b9d2f3224216380a_uaplba.jpg"  ;max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192949867_4e9c1fc4065cb86656dc185422eed768_suskmu.jpg" ; max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192949991_4dbf652d4abe46458f01df2973bfaca2_y7pkj5.jpg"; max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184192953869_37d83bab33f4dbc877e8f1b8b85d9a41_ic17eo.jpg" max-width:120px; border-radius:8px;" />
 
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193014053_5ade615ea117f87a275cbe7be88ba988_kj1jcv.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193014053_5ade615ea117f87a275cbe7be88ba988_kj1jcv.jpg" max-width:120px; border-radius:8px;" />
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184193018345_3db84fc3df41b475c192f235f288285e_tcamox.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184193017254_ebcf1dddfba1483db24a76ab4e506287_ykwgvi.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193019618_4f9f00adf3635eda666cd63a525c9a1c_vy1cef.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
