@@ -5,7 +5,7 @@
   flex-wrap: wrap;
   justify-content: center;
   column-gap: 8px;
-  row-gap: 30px; /* 👈 khoảng cách giữa các hàng */
+  row-gap: 50px; /* 👈 Khoảng cách giữa các hàng đã được TĂNG lên 50px */
 ">
 
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192844850_4a12c361575899759337f022df4138b0_ha1qlv.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
@@ -37,7 +37,7 @@
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193105204_587682b9869ed932592cd1d25f1cdd09_cqzxgv.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
 
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193109979_b131548dbd2652cff17fc58645e16361_xtdpw2.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193111133_428c4676e114c74278d571679127774c_cmsso0.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
+  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z718419311133_428c4676e114c74278d571679127774c_cmsso0.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153350/z7184193157634_63501239915d19895603043a2f335b38_qubrv0.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153751/z7184241958754_1b489e2454905291c40160fbaff9ab44_x1fuhw.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153363/z7184193160353_511e9b3b22133d4e585d953eb082457a_p1ffaw.jpg" style="width:16%; min-width:120px; border-radius:8px;" />
