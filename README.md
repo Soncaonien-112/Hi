@@ -2,11 +2,10 @@
 
 <div style="
   display: grid;
-  grid-template-columns: repeat(6, 1fr); /* Đảm bảo 6 cột bằng nhau */
-  column-gap: 8px;   /* Khoảng cách ngang giữa các ảnh */
-  row-gap: 100px;    /* KHOẢNG CÁCH DỌC GIỮA CÁC HÀNG là 100px */
-  justify-items: center; /* Canh giữa ảnh trong cột */
-  text-align: center; /* Đảm bảo các hàng được canh giữa */
+  grid-template-columns: repeat(6, 1fr); /* mỗi hàng 6 ảnh */
+  column-gap: 8px;  /* khoảng cách ngang giữa ảnh */
+  row-gap: 100px;   /* khoảng cách giữa các hàng */
+  justify-items: center; /* canh giữa ảnh trong cột */
 ">
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192844850_4a12c361575899759337f022df4138b0_ha1qlv.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
   <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192852614_e85e74bf2d8de645988c345fb664c09f_hrbyof.jpg" style="width:100%; max-width:120px; border-radius:8px;" />
