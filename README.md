@@ -2,19 +2,19 @@
 
 ## Mô Tả Dự Án
 
-Đây là một ứng dụng máy tính cầm tay hoàn chỉnh được xây dựng bằng Flutter. Ứng dụng mang đến trải nghiệm tính toán trực quan, nhanh chóng và hiện đại trên điện thoại di động.
+- Đây là một ứng dụng máy tính cầm tay hoàn chỉnh được xây dựng bằng Flutter. Ứng dụng mang đến trải nghiệm tính toán trực quan, nhanh chóng và hiện đại trên điện thoại di động.
 
-Ứng dụng thực hiện tất cả các phép tính cơ bản như cộng, trừ, nhân, chia. Ngoài ra, nó còn hỗ trợ số thập phân, số âm, và phần trăm, giúp người dùng dễ dàng thực hiện các phép tính phức tạp.
+- Ứng dụng thực hiện tất cả các phép tính cơ bản như cộng, trừ, nhân, chia. Ngoài ra, nó còn hỗ trợ số thập phân, số âm, và phần trăm, giúp người dùng dễ dàng thực hiện các phép tính phức tạp.
 
-Giao diện được thiết kế theo phong cách dark theme, giúp giảm mỏi mắt khi sử dụng lâu. Các nút bấm được bố trí responsive theo thiết kế Figma, đảm bảo trải nghiệm mượt mà và trực quan.
+- Giao diện được thiết kế theo phong cách dark theme, giúp giảm mỏi mắt khi sử dụng lâu. Các nút bấm được bố trí responsive theo thiết kế Figma, đảm bảo trải nghiệm mượt mà và trực quan.
 
-Ứng dụng tích hợp bảng lịch sử tính toán, cho phép người dùng xem lại tất cả các phép tính trước đó cùng kết quả. Điều này hỗ trợ việc kiểm tra và đối chiếu nhanh chóng.
+- Ứng dụng tích hợp bảng lịch sử tính toán, cho phép người dùng xem lại tất cả các phép tính trước đó cùng kết quả. Điều này hỗ trợ việc kiểm tra và đối chiếu nhanh chóng.
 
-Các tình huống lỗi như chia cho 0, nhập nhiều dấu thập phân, hoặc nhấn liên tiếp các phép tính được xử lý thông minh, giúp trải nghiệm luôn ổn định.
+- Các tình huống lỗi như chia cho 0, nhập nhiều dấu thập phân, hoặc nhấn liên tiếp các phép tính được xử lý thông minh, giúp trải nghiệm luôn ổn định.
 
-Ứng dụng kết hợp UI/UX hiện đại, quản lý trạng thái linh hoạt, và logic toán học chính xác, phù hợp với học sinh, sinh viên, và những ai cần công cụ tính toán nhanh trên thiết bị di động.
+- Ứng dụng kết hợp UI/UX hiện đại, quản lý trạng thái linh hoạt, và logic toán học chính xác, phù hợp với học sinh, sinh viên, và những ai cần công cụ tính toán nhanh trên thiết bị di động.
 
-Trong tương lai, ứng dụng có thể mở rộng thêm các tính năng như chuyển đổi giao diện sáng/tối, thêm biểu đồ, hoặc các chức năng nâng cao khác, tạo nên một máy tính di động toàn diện.
+- Trong tương lai, ứng dụng có thể mở rộng thêm các tính năng như chuyển đổi giao diện sáng/tối, thêm biểu đồ, hoặc các chức năng nâng cao khác, tạo nên một máy tính di động toàn diện.
 
 ### Các Tính Năng Chính
 - ✅ **Phép tính cơ bản:** Cộng (+), Trừ (-), Nhân (×), Chia (÷)
