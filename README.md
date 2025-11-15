@@ -1,46 +1,50 @@
-## 📷 Screenshots (Đã sửa lỗi kích thước và sắp xếp ảnh) ✅
+# Flutter Calculator App
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(6, 1fr); /* 6 cột bằng nhau, đảm bảo mỗi hàng 6 ảnh */
-  column-gap: 8px;   /* Khoảng cách ngang giữa các ảnh */
-  row-gap: 100px;    /* KHOẢNG CÁCH DỌC GIỮA CÁC HÀNG là 100px */
-  justify-items: center; /* Canh giữa ảnh trong cột */
-  text-align: center; /* Canh giữa toàn bộ lưới */
-  width: 100%; /* Đảm bảo div chiếm toàn bộ chiều rộng có sẵn */
-">
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192844850_4a12c361575899759337f022df4138b0_ha1qlv.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192852614_e85e74bf2d8de645988c345fb664c09f_hrbyof.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192864124_d2c21ef16ae34e36cfa90431c1aab4b8_kt6s5s.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153346/z7184192884747_6b194cb6f1dd1142191c3bdb9e94ceb8_p4blkq.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192884291_b988ea85ec513084c0eb21ccce58ca0b_somezp.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192915512_a3cf26b40e416d7f6816f12ea75465f4_gby47i.jpg" style="max-width:120px; border-radius:8px;" />
+## Project Description
 
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192948890_903d3b274db3a2ba11450645d9fe79bc_jdardr.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192902830_878f21738ac2da99d9b30a4ff50c863c_jcvr8c.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184192913486_96292f278d30d6b1b9d2f3224216380a_uaplba.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192949867_4e9c1fc4065cb86656dc185422eed768_suskmu.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184192949991_4dbf652d4abe46458f01df2973bfaca2_y7pkj5.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184192953869_37d83bab33f4dbc877e8f1b8b85d9a41_ic17eo.jpg" style="max-width:120px; border-radius:8px;" />
+This is a fully functional **handheld calculator app** built with **Flutter**. The app performs all basic arithmetic operations and includes additional features to enhance user experience.  
 
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193014053_5ade615ea117f87a275cbe7be88ba988_kj1jcv.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184193018345_3db84fc3df41b475c192f235f288285e_tcamox.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184193017254_ebcf1dddfba1483db24a76ab4e506287_ykwgvi.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193019618_4f9f00adf3635eda666cd63a525c9a1c_vy1cef.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153347/z7184193017527_dd8d8c22792eb10028692d94fcead7bd_taappm.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193029404_959fe23e505bbbdb6c67ac12182edea0_mjufis.jpg" style="max-width:120px; border-radius:8px;" />
+### Key Features:
+- **Basic arithmetic operations:** Addition (+), Subtraction (-), Multiplication (×), Division (÷)
+- **Decimal number support:** Handle floating point calculations like `3.5 × 2 = 7`
+- **Negative numbers:** Support inputting negative numbers (e.g., `-5 + 3`)
+- **Clear (C) and Clear End (CE) functionality:** Reset all or remove the last character
+- **Percentage (%):** Convert numbers to percentages
+- **Plus/Minus (±):** Toggle the sign of the last number
+- **Brackets ( )**: Allow grouping expressions
+- **Calculation history:** Display previous expressions and results
+- **Responsive UI:** Buttons and layout match the Figma design
+- **Error handling:** Prevent division by zero and multiple decimal points
+- **Dark theme UI:** Smooth, clean dark design for comfortable use
 
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153348/z7184193023448_f418c71c9697c7203514670d6c87f64b_jje95u.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193034345_1be10b8ae0921ccb6ecd3669822106b5_jm8n1e.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193090393_76c00739b91bb2f91c06fe7d3d411a21_rn5dlz.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193108655_f724e660c49158e46498247a9ba69570_n6j45e.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193110876_1d954c3c0bff264f190a3f459e4e8ef3_lagkeu.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193105204_587682b9869ed932592cd1d25f1cdd09_cqzxgv.jpg" style="max-width:120px; border-radius:8px;" />
+This app provides an intuitive **calculator experience** with instant feedback on user input.
 
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z7184193109979_b131548dbd2652cff17fc58645e16361_xtdpw2.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153349/z718419311133_428c4676e114c74278d571679127774c_cmsso0.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153350/z7184193157634_63501239915d19895603043a2f335b38_qubrv0.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153751/z7184241958754_1b489e2454905291c40160fbaff9ab44_x1fuhw.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153363/z7184193160353_511e9b3b22133d4e585d953eb082457a_p1ffaw.jpg" style="max-width:120px; border-radius:8px;" />
-  <img src="https://res.cloudinary.com/dq64aidpx/image/upload/v1762153363/z7184193167067_261d6503c4d611ea8091d5319d50e2d2_mom81g.jpg" style="max-width:120px; border-radius:8px;" />
-</div>
+---
+
+## Screenshots
+
+| ![Screen1](https://res.cloudinary.com/dq64aidpx/image/upload/v1763216591/z7228005346896_283a0e41301812e20238f0614cc031e7_tquwhh.jpg) | ![Screen2](https://res.cloudinary.com/dq64aidpx/image/upload/v1763216590/z7228005345564_28fa0828436553ae6814f91206be9bb4_fcpiuy.jpg) | ![Screen3](https://res.cloudinary.com/dq64aidpx/image/upload/v1763216591/z7228005351744_45a9360c9ff71958a8f9416e9cb7bd47_lgc2iw.jpg) |
+|---|---|---|
+| ![Screen4](https://res.cloudinary.com/dq64aidpx/image/upload/v1763216591/z7228005372358_8a4fca763c21df78d16335244e9d4e74_j7l6h4.jpg) | ![Screen5](https://res.cloudinary.com/dq64aidpx/image/upload/v1763216591/z7228005377623_d80a286ef732a8869391c85658bee45a_ixwtol.jpg) | ![Screen6](https://res.cloudinary.com/dq64aidpx/image/upload/v1763216591/z7228005386492_4cd6d37ea490379b2748c91456dc2324_icys0l.jpg) |
+
+---
+
+## How to Run the App
+
+Follow these steps to run the calculator app:
+
+```bash
+# Clone the repository
+git clone https://github.com/your_username/flutter_calculator_[your_name].git
+
+# Navigate to the project directory
+cd flutter_calculator_[your_name]
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+
+
+
