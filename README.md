@@ -61,3 +61,24 @@ Làm theo các bước sau để chạy ứng dụng máy tính:
 - **Phản hồi tức thì:** Màn hình hiển thị cập nhật ngay khi nhập, không reset cho tới khi tính toán hoàn tất.
 - **Giao diện tối:** Thiết kế tối mượt mà, dễ nhìn và dễ sử dụng.
 - **Sẵn sàng mở rộng:** Có thể thêm chức năng chuyển đổi giữa giao diện sáng/tối trong tương lai.
+
+---
+
+## Cấu trúc lưu trữ dự án
+
+├── lib/
+│   ├── main.dart                 # Entry point của ứng dụng
+│   ├── screen/                   # Chứa các màn hình và UI
+│   │   ├── calculatorUI.dart     # Giao diện chính của máy tính
+│   │   └── logic.dart            # Xử lý logic tính toán
+│   └── screenshot/               # Thư mục chứa ảnh minh họa từ điện thoại thật
+│       ├── screen1.jpg
+│       ├── screen2.jpg
+│       ├── screen3.jpg
+│       ├── screen4.jpg
+│       ├── screen5.jpg
+│       └── screen6.jpg
+├── pubspec.yaml                  # File cấu hình Flutter & dependencies
+├── README.md                     # Mô tả dự án
+└── .gitignore                    # File ignore các thư mục sinh tự động (build/, .dart_tool/, v.v.)
+
