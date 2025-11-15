@@ -59,8 +59,8 @@
    `flutter run -d <device_id>`
    
 7. **Xây dựng bản release (tùy chọn):**  
-   Tạo APK cho Android: `flutter build apk --releas`
-   Tạo IPA cho iOS: `flutter build ios --release`
+   Tạo APK cho Android:  `flutter build apk --releas`  
+   Tạo IPA cho iOS:  `flutter build ios --release`  
    
 8. **Lưu ý quan trọng:**  
    Đảm bảo thiết bị hoặc emulator đang bật chế độ debug.  
