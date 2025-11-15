@@ -66,7 +66,7 @@
    Đảm bảo thiết bị hoặc emulator đang bật chế độ debug.  
    Nếu gặp lỗi dependencies, thử:  
    `flutter clean`  
-  ` flutter pub get`  
+   `flutter pub get`  
    Phiên bản Flutter nên là stable.  
 
 Lịch sử tính toán sẽ tự cập nhật sau mỗi phép tính, không cần thao tác thêm.
