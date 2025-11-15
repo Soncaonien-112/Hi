@@ -55,19 +55,19 @@
 4. **Chạy ứng dụng:**  
    `flutter run` trên emulator hoặc thiết bị thật
    
-5. **Chạy trên thiết bị cụ thể (tùy chọn):**
+5. **Chạy trên thiết bị cụ thể (tùy chọn):**  
    `flutter run -d <device_id>`
    
-6. **Xây dựng bản release (tùy chọn):**
+7. **Xây dựng bản release (tùy chọn):**  
    Tạo APK cho Android: `flutter build apk --releas`
    Tạo IPA cho iOS: `flutter build ios --release`
    
-7. **Lưu ý quan trọng:**
-   Đảm bảo thiết bị hoặc emulator đang bật chế độ debug.
-   Nếu gặp lỗi dependencies, thử:
-   `flutter clean`
-  ` flutter pub get`
-   Phiên bản Flutter nên là stable.
+8. **Lưu ý quan trọng:**  
+   Đảm bảo thiết bị hoặc emulator đang bật chế độ debug.  
+   Nếu gặp lỗi dependencies, thử:  
+   `flutter clean`  
+  ` flutter pub get`  
+   Phiên bản Flutter nên là stable.  
 
 Lịch sử tính toán sẽ tự cập nhật sau mỗi phép tính, không cần thao tác thêm.
 
