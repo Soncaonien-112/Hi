@@ -67,18 +67,19 @@ Làm theo các bước sau để chạy ứng dụng máy tính:
 ## Cấu trúc lưu trữ dự án
 
 lib/
-├── main.dart # Entry point của ứng dụng
-├── screen/ # Chứa các màn hình và UI
-│ ├── calculatorUI.dart # Giao diện chính của máy tính
-│ └── logic.dart # Xử lý logic tính toán
-└── screenshot/ # Thư mục chứa ảnh minh họa từ điện thoại thật
-├── screen1.jpg
-├── screen2.jpg
-├── screen3.jpg
-├── screen4.jpg
-├── screen5.jpg
-└── screen6.jpg
-pubspec.yaml # File cấu hình Flutter & dependencies
-README.md # Mô tả dự án
-.gitignore # File ignore các thư mục sinh tự động (build/, .dart_tool/, v.v.)
+├── main.dart                 # Entry point của ứng dụng
+├── screen/                   # Chứa các màn hình và UI
+│   ├── calculatorUI.dart     # Giao diện chính của máy tính
+│   └── logic.dart            # Xử lý logic tính toán
+└── screenshot/               # Thư mục chứa ảnh minh họa từ điện thoại thật
+    ├── screen1.jpg
+    ├── screen2.jpg
+    ├── screen3.jpg
+    ├── screen4.jpg
+    ├── screen5.jpg
+    └── screen6.jpg
+pubspec.yaml                  # File cấu hình Flutter & dependencies
+README.md                     # Mô tả dự án
+.gitignore                    # File ignore các thư mục sinh tự động (build/, .dart_tool/, v.v.)
+
 
