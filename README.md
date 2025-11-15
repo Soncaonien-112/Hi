@@ -2,20 +2,25 @@
 
 ## Mô Tả Dự Án
 
-Đây là một ứng dụng **máy tính cầm tay** hoàn chỉnh được xây dựng bằng **Flutter**. Ứng dụng thực hiện tất cả các phép tính cơ bản và có thêm nhiều tính năng nâng cao nhằm cải thiện trải nghiệm người dùng.
+Đây là một ứng dụng **máy tính cầm tay** hoàn chỉnh được xây dựng bằng **Flutter**, mang đến trải nghiệm tính toán trực quan, nhanh chóng và hiện đại trên điện thoại di động. Ứng dụng không chỉ thực hiện tất cả các phép tính cơ bản như **cộng, trừ, nhân, chia**, mà còn hỗ trợ **số thập phân**, **số âm**, **phần trăm**, giúp người dùng thực hiện các phép tính phức tạp một cách dễ dàng.  
+Giao diện ứng dụng được thiết kế theo phong cách **dark theme**, giúp giảm mỏi mắt khi sử dụng lâu, đồng thời các nút bấm được bố trí **responsive** theo thiết kế Figma, đảm bảo trải nghiệm sử dụng mượt mà và trực quan.  
+Ngoài ra, ứng dụng còn tích hợp **bảng lịch sử tính toán**, giúp người dùng xem lại tất cả các phép tính trước đó cùng kết quả, hỗ trợ việc kiểm tra và đối chiếu nhanh chóng. **Các tình huống lỗi** như chia cho 0, nhập nhiều dấu thập phân, hoặc nhấn liên tiếp các phép tính cũng được xử lý thông minh, giúp trải nghiệm luôn ổn định.  
+Ứng dụng này là sự kết hợp giữa **UI/UX hiện đại**, **quản lý trạng thái linh hoạt**, và **logic toán học chính xác**, phù hợp với cả học sinh, sinh viên và những người cần một công cụ tính toán nhanh trên thiết bị di động.  
+Tương lai, ứng dụng có thể mở rộng thêm các tính năng như **chuyển đổi giao diện sáng/tối**, thêm **biểu đồ**, hoặc các chức năng nâng cao hơn, tạo nên một máy tính di động toàn diện.
 
-### 🔑 Các Tính Năng Chính
-- 🔢 **Phép tính cơ bản:** Cộng (+), Trừ (-), Nhân (×), Chia (÷)
-- 🔢 **Hỗ trợ số thập phân:** Ví dụ `3.5 × 2 = 7`
-- ➖ **Hỗ trợ số âm:** Ví dụ `-5 + 3`
-- ❌ **Clear (C) và Clear End (CE):** Xóa toàn bộ hoặc xóa ký tự cuối
-- % **Phần trăm (%):** Chuyển đổi số sang phần trăm
-- ± **Dấu ±:** Đổi dấu số vừa nhập
-- ( ) **Dấu ngoặc:** Nhóm biểu thức
-- 📝 **Lịch sử tính toán:** Hiển thị các biểu thức và kết quả trước đó
-- 📱 **UI responsive:** Nút và bố cục tương ứng với thiết kế Figma
-- ⚠️ **Xử lý lỗi:** Ngăn chia cho 0, nhiều dấu chấm, nhấn liên tiếp phép tính
-- 🌙 **Giao diện tối:** Thiết kế tối mượt mà, dễ nhìn
+
+### Các Tính Năng Chính
+- ✅ **Phép tính cơ bản:** Cộng (+), Trừ (-), Nhân (×), Chia (÷)
+- ✅ **Hỗ trợ số thập phân:** Ví dụ `3.5 × 2 = 7`
+- ✅ **Hỗ trợ số âm:** Ví dụ `-5 + 3`
+- ✅ **Clear (C) và Clear End (CE):** Xóa toàn bộ hoặc xóa ký tự cuối
+- ✅ **Phần trăm (%):** Chuyển đổi số sang phần trăm
+- ✅ **Dấu ±:** Đổi dấu số vừa nhập
+- ✅ **Dấu ngoặc:** Nhóm biểu thức
+- ✅ **Lịch sử tính toán:** Hiển thị các biểu thức và kết quả trước đó
+- ✅ **UI responsive:** Nút và bố cục tương ứng với thiết kế Figma
+- ✅ **Xử lý lỗi:** Ngăn chia cho 0, nhiều dấu chấm, nhấn liên tiếp phép tính
+- ✅ **Giao diện tối:** Thiết kế tối mượt mà, dễ nhìn
 
 Ứng dụng mang đến trải nghiệm **máy tính trực quan**, cập nhật kết quả ngay khi nhập mà không bị reset cho tới khi tính toán xong.
 
